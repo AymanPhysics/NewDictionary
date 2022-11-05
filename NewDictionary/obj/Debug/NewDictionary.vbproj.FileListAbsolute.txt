@@ -1,0 +1,9 @@
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Debug\NewDictionary.Form1.resources
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Debug\NewDictionary.Resources.resources
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Debug\NewDictionary.vbproj.GenerateResource.Cache
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\bin\Debug\NewDictionary.exe
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\bin\Debug\NewDictionary.pdb
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\bin\Debug\NewDictionary.xml
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Debug\NewDictionary.exe
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Debug\NewDictionary.xml
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Debug\NewDictionary.pdb

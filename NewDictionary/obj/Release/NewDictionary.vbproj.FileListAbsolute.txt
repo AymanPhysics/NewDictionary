@@ -1,0 +1,12 @@
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\bin\Release\NewDictionary.exe
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\bin\Release\NewDictionary.pdb
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\bin\Release\NewDictionary.xml
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.Form1.resources
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.Resources.resources
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.vbproj.GenerateResource.Cache
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.exe
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.xml
+E:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.pdb
+F:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.exe
+F:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.xml
+F:\Projects\MyDotNetProjects\NewDictionary\NewDictionary\obj\Release\NewDictionary.pdb
